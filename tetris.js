@@ -566,7 +566,7 @@ function makeSprite() {
   ];
   
   var glossy = [
-    //25         37         52         -21        -45
+    //25s         37         52         -21        -45
     ['#ffffff', '#ffffff', '#ffffff', '#888888', '#4d4d4d'],
     ['#7bffdf', '#9fffff', '#ccffff', '#008165', '#00442e'],
     ['#6cdcff', '#93feff', '#c2ffff', '#00629f', '#002c60'],
