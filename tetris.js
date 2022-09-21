@@ -1,11 +1,3 @@
-/*
-Author: Simon Laroche
-Site: http://simon.lc/
-Demo: http://simon.lc/tetr.js
-
-Note: Before looking at this code, it would be wise to do a bit of reading about
-the game so you know why some things are done a certain way.
-*/
 'use strict';
 
 /**
@@ -567,7 +559,7 @@ function makeSprite() {
     ['#0C5A3E', '#57b1f6', '#007dbd', '#0064a2'],
     ['#0B5239', '#ff993f', '#c86400', '#a94b00'],
     ['#0A4A33', '#ffdf3a', '#d1a800', '#b38e00'],
-    ['#21e617', '#b9e955', '#81b214', '#659700'],
+    ['#0A4A33', '#b9e955', '#81b214', '#659700'],
     ['#0D6244', '#b873d4', '#81409d', '#672782'],
     ['#0B5239', '#ff6853', '#c62c25', '#a70010'],
     ['#0A4A33', '#a3a3a3', '#6f6f6f', '#575757'],
